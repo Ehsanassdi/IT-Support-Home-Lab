@@ -37,7 +37,7 @@ When a system is slow:
 
 
 
-Windows Services Troubleshooting
+- Windows Services Troubleshooting
 Skills Practised:
 
         Opened Services Manager (services.msc)
@@ -71,7 +71,7 @@ When a Windows feature stops working:
 
 
 
-Startup Application Troubleshooting
+- Startup Application Troubleshooting
 
 Skills Practised:
 
@@ -90,7 +90,7 @@ Key Learning:
 
 
 
-Network Troubleshooting Practice
+- Network Troubleshooting Practice
 
 Scenario
 
