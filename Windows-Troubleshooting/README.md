@@ -58,7 +58,7 @@ Examples:
         Print Spooler	                                                         Printing
         Windows Audio	                                                         Sound
         Bluetooth Support Service	                                             Bluetooth
-        DHCP Client	                                                              Network configuration
+        DHCP Client	                                                             Network configuration
 
 
 Troubleshooting Approach:
