@@ -43,15 +43,15 @@ This proves you understand ports and active connections
 
 Overview
 
-Skills Practised
+## Skills Practised
 
-Commands Used:
+## Commands Used:
 
         1. ipconfig /all
         2. ping google.com
         3. netstat -an
 
-Key Concepts Learned:
+## Key Concepts Learned:
 
         - IP Address
         - DNS
@@ -60,7 +60,7 @@ Key Concepts Learned:
         - Ports
         - IPv4 vs IPv6
 
-Key Interview Notes
+## Key Interview Notes
 
         - 169.254.x.x = DHCP problem
         - Port 80 = HTTP
@@ -71,3 +71,6 @@ Key Interview Notes
         - ESTABLISHED = active connection
         - TIME_WAIT = recently closed connection
 
+## Outcome
+
+Practised core networking troubleshooting using ipconfig, ping and netstat. Gained hands-on experience identifying IP addressing, DHCP, DNS, default gateway information, network connectivity and active network connections.
