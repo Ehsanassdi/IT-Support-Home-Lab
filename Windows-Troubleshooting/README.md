@@ -22,9 +22,9 @@ Skills Practised:
 
 
 
-<img width="300" height="300" alt="Screenshot 2026-05-26 at 19 53 03" src="https://github.com/user-attachments/assets/57ffa504-7d53-485e-9ed8-bf2bd8defa18" />
+<img width="400" height="400" alt="Screenshot 2026-05-26 at 19 53 03" src="https://github.com/user-attachments/assets/57ffa504-7d53-485e-9ed8-bf2bd8defa18" />
 
-<img width="300" height="300" alt="Screenshot 2026-05-26 at 19 53 19" src="https://github.com/user-attachments/assets/26748b07-5c2e-42e4-a7aa-7473c176198e" />
+<img width="400" height="400" alt="Screenshot 2026-05-26 at 19 53 19" src="https://github.com/user-attachments/assets/26748b07-5c2e-42e4-a7aa-7473c176198e" />
 
 
 Key Learning:
