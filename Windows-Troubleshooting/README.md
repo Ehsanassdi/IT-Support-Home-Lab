@@ -121,6 +121,10 @@ Steps Performed
         Re-enabled the adapter
         Confirmed internet access was restored
 
+<img width="400" height="400" alt="Screenshot 2026-05-28 at 19 17 16" src="https://github.com/user-attachments/assets/669ea7ea-3069-48e3-bf00-9ad66f5a1cd5" />
+<img width="400" height="400" alt="Screenshot 2026-05-28 at 19 20 30" src="https://github.com/user-attachments/assets/82603d33-bbfe-4101-8cb5-9edf7de35146" />
+<img width="400" height="400" alt="Screenshot 2026-05-28 at 19 18 51" src="https://github.com/user-attachments/assets/768b3ecc-d549-439c-8eca-4b0f9654c831" />
+
 
 Key Learning:
 
