@@ -22,9 +22,9 @@ Skills Practised:
 
 
 
-<img width="400" height="400" alt="Screenshot 2026-05-26 at 19 53 03" src="https://github.com/user-attachments/assets/57ffa504-7d53-485e-9ed8-bf2bd8defa18" />
+<img width="300" height="300" alt="Screenshot 2026-05-26 at 19 53 03" src="https://github.com/user-attachments/assets/57ffa504-7d53-485e-9ed8-bf2bd8defa18" />
 
-<img width="400" height="400" alt="Screenshot 2026-05-26 at 19 53 19" src="https://github.com/user-attachments/assets/26748b07-5c2e-42e4-a7aa-7473c176198e" />
+<img width="300" height="300" alt="Screenshot 2026-05-26 at 19 53 19" src="https://github.com/user-attachments/assets/26748b07-5c2e-42e4-a7aa-7473c176198e" />
 
 
 Key Learning:
@@ -57,7 +57,14 @@ Skills Practised:
         Reviewed service properties
         Modified startup types
 
-<img width="400" height="400" alt="Screenshot 2026-05-26 at 20 07 38" src="https://github.com/user-attachments/assets/0bd36528-f1f4-4d2f-b566-9e4c9a6f43d3" />
+<img width="300" height="300" alt="Screenshot 2026-05-26 at 20 07 38" src="https://github.com/user-attachments/assets/2fba117a-d1bb-4f92-afc2-45e7a839af91" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-26 at 20 07 58" src="https://github.com/user-attachments/assets/da9b8df0-2bcc-4638-be00-53011b889f09" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-26 at 20 08 18" src="https://github.com/user-attachments/assets/8d2e902f-0e30-42ea-b18a-cfaad3e2e6d0" />
+
+
+
 
 Services Manager with Print Spooler selected for troubleshooting.
 
@@ -98,6 +105,13 @@ Skills Practised:
         Added a startup item manually
         Verified automatic launch after login
 
+<img width="300" height="300" alt="Screenshot 2026-05-28 at 19 09 13" src="https://github.com/user-attachments/assets/59f5e0e3-d557-4fd8-b624-7eb2f83e8dd4" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-28 at 19 09 55" src="https://github.com/user-attachments/assets/4383735e-0acd-4a08-a309-68610b7262af" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-28 at 19 08 56" src="https://github.com/user-attachments/assets/cb5f10f2-283e-43a5-a35c-f66f1198b4aa" />
+
+
 
 Key Learning:
 
@@ -121,11 +135,11 @@ Steps Performed
         Re-enabled the adapter
         Confirmed internet access was restored
 
-<img width="350" height="350" alt="Screenshot 2026-05-28 at 19 17 16" src="https://github.com/user-attachments/assets/669ea7ea-3069-48e3-bf00-9ad66f5a1cd5" />
+<img width="300" height="300" alt="Screenshot 2026-05-28 at 19 17 16" src="https://github.com/user-attachments/assets/669ea7ea-3069-48e3-bf00-9ad66f5a1cd5" />
 
-<img width="350" height="350" alt="Screenshot 2026-05-28 at 19 20 30" src="https://github.com/user-attachments/assets/82603d33-bbfe-4101-8cb5-9edf7de35146" />
+<img width="300" height="300" alt="Screenshot 2026-05-28 at 19 20 30" src="https://github.com/user-attachments/assets/82603d33-bbfe-4101-8cb5-9edf7de35146" />
 
-<img width="350" height="350" alt="Screenshot 2026-05-28 at 19 18 51" src="https://github.com/user-attachments/assets/768b3ecc-d549-439c-8eca-4b0f9654c831" />
+<img width="300" height="300" alt="Screenshot 2026-05-28 at 19 18 51" src="https://github.com/user-attachments/assets/768b3ecc-d549-439c-8eca-4b0f9654c831" />
 
 
 Key Learning:
