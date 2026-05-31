@@ -53,7 +53,7 @@ Key Learning:
 
 Examples:
 
-        Service	                                                                Function
+        Service	                                                                 Function
 
         Print Spooler	                                                         Printing
         Windows Audio	                                                         Sound
