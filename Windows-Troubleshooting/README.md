@@ -57,6 +57,8 @@ Skills Practised:
         Modified startup types
 
 <img width="400" height="400" alt="Screenshot 2026-05-26 at 20 07 38" src="https://github.com/user-attachments/assets/0bd36528-f1f4-4d2f-b566-9e4c9a6f43d3" />
+Services Manager with Print Spooler selected for troubleshooting.
+
 
 Key Learning:
 
