@@ -58,3 +58,30 @@ Tools Used:
         User Account Control (UAC)
         Device Manager
         Windows Settings
+        
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 18 47 01" src="https://github.com/user-attachments/assets/78bad87c-9ff4-4bd0-a973-0f8e769d6c7d" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 18 47 49" src="https://github.com/user-attachments/assets/a97b3d06-9eff-4ab9-a1cb-07b0e8bbe696" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 19 11 07" src="https://github.com/user-attachments/assets/94db25ce-d165-437e-870d-6b19e1c26533" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 19 11 20" src="https://github.com/user-attachments/assets/758ccb5d-e7e7-4201-99c0-7e003a2115d8" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 19 11 36" src="https://github.com/user-attachments/assets/9d7393b8-a530-402c-9b21-dc8ecd89f339" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 19 11 51" src="https://github.com/user-attachments/assets/acd606b8-808f-43ad-af52-e8cdbc2a838e" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 18 49 42" src="https://github.com/user-attachments/assets/f8f021b3-978f-41be-af60-53fc590921be" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 19 35 10" src="https://github.com/user-attachments/assets/c763c47a-3c1e-4695-b680-8be953dc1f25" />
+
+<img width="300" height="300" alt="Screenshot 2026-05-29 at 19 35 43" src="https://github.com/user-attachments/assets/d8eb6bc3-8c35-4b37-a5de-79d08cf6e47f" />
+
+
+
+Outcome:
+
+Successfully created, managed, tested, and removed Windows user accounts while validating permission boundaries and administrator controls in a Windows environment. This lab strengthened practical IT Support troubleshooting and account management skills.
+
+
+
