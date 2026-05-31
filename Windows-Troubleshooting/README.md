@@ -1,4 +1,5 @@
 Windows Troubleshooting Foundations
+
 Overview
 As part of my IT Support Home Lab, I practised common Windows troubleshooting tasks that are frequently encountered in Helpdesk and IT Support roles.
 The focus of this lab was understanding how Windows components work, identifying common issues, and following a structured troubleshooting process.
