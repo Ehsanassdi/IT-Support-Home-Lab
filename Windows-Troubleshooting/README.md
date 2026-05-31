@@ -7,7 +7,10 @@ The focus of this lab was understanding how Windows components work, identifying
 
 
 
+
+
 Task Manager & Performance Troubleshooting:
+
 Skills Practised:
 
         Opened and navigated Task Manager
