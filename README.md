@@ -1,2 +1,2 @@
 # IT-Support-Home-Lab
-Hands-on IT Support home lab covering Windows troubleshooting, networking, Active Directory, Microsoft 365, and Helpdesk scenarios.
+Hands-on IT Support Home Lab covering Windows troubleshooting, networking, Active Directory, Microsoft 365, PowerShell, and Helpdesk scenarios.
