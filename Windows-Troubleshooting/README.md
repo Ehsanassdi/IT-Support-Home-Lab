@@ -21,8 +21,6 @@ Skills Practised:
 
 
 
-![Uploading Screenshot 2026-05-26 at 19.53.03.png…]()
-
 
 
 
