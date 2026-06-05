@@ -22,7 +22,7 @@ Domain:
 
         ehsan.local
 
-Step 1 – Install Active Directory Domain Services
+Step 1 – Install Active Directory Domain Services:
 
 Opened PowerShell and installed Active Directory Domain Services.
 
@@ -31,3 +31,157 @@ Command used:
         Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
         
 <img width="700" height="300" alt="Screenshot 2026-06-03 at 22 36 30" src="https://github.com/user-attachments/assets/2f6df296-a37e-4ed4-81d6-0a314a9d6c05" />
+
+
+Step 2 – Create Active Directory Domain:
+
+Created a new Active Directory forest and domain.
+
+Command used:
+
+        Install-ADDSForest -DomainName "ehsan.local"
+
+Domain created:
+
+        ehsan.local
+
+<img width="700" height="300" alt="Screenshot 2026-06-03 at 22 49 20" src="https://github.com/user-attachments/assets/40e5f906-6955-4efd-a76a-82360b04a7b4" />
+
+<img width="700" height="300" alt="Screenshot 2026-06-03 at 22 52 27" src="https://github.com/user-attachments/assets/6d1cdab2-be0c-4440-ba0c-e691fcba88fe" />
+
+
+
+Step 3 – Verify Domain Controller:
+
+After promotion, the server became a Domain Controller.
+
+Server details:
+
+        Computer Name: DC01
+        Domain: ehsan.local
+
+Screenshot 3: DC01 running as Domain Controller
+
+
+Step 4 – Configure Static IP on DC01:
+
+Configured a static IP address using SConfig.
+
+Settings:
+
+        IP Address: 192.168.10.10
+        Subnet Mask: 255.255.255.0
+        Gateway: 192.168.10.1
+
+Reason:
+
+        Domain Controllers should use static IP addresses.
+        Clients must always be able to locate the Domain Controller.
+
+Screenshot 4: Static IP configuration on DC01
+
+
+Step 5 – Configure Static IP on Windows 10 Client:
+
+Configured a static IP address on the Windows 10 client.
+
+Settings:
+
+        IP Address: 192.168.10.20
+        Subnet Mask: 255.255.255.0
+        Gateway: 192.168.10.1
+        DNS Server: 192.168.10.10
+
+Reason:
+
+        Enables reliable communication with the Domain Controller.
+        Allows DNS resolution for Active Directory services.
+
+Screenshot 5: Windows 10 network configuration
+
+
+Step 6 – Test Connectivity:
+
+Verified communication between the client and Domain Controller.
+
+Command:
+
+        ping 192.168.10.10
+
+Result:
+
+        Reply from 192.168.10.10
+
+Screenshot 6: Successful ping test
+
+
+Step 7 – Verify DNS Resolution:
+
+Verified DNS functionality.
+
+Command:
+
+        nslookup ehsan.local
+
+Result:
+
+        Name: ehsan.local
+        Address: 192.168.10.10
+
+Screenshot 7: Successful DNS resolution
+
+
+Step 8 – Join Windows 10 to the Domain:
+
+Opened:
+
+        sysdm.cpl
+
+Then:
+
+        Computer Name
+        Change
+        Domain
+        ehsan.local
+
+Authenticated using domain administrator credentials.
+
+Received confirmation:
+
+        Welcome to the ehsan.local domain.
+
+Screenshot 8: Successful domain join
+
+
+Step 9 – Restart and Verify Domain Membership:
+
+Restarted Windows 10.
+
+The login screen now displays the option to sign in using domain credentials.
+
+Screenshot 9: Domain-joined login screen
+
+
+Skills Practiced:
+
+        Windows Server 2022
+        Active Directory
+        Domain Controller Deployment
+        DNS Configuration
+        Static IP Configuration
+        Domain Joining
+        Windows Administration
+        IT Support Fundamentals
+        Network Troubleshooting
+        
+Outcome:
+
+Successfully:
+
+        Installed AD DS
+        Created Active Directory domain
+        Promoted DC01 to Domain Controller
+        Assigned static IP addresses
+        Verified connectivity and DNS
+        Joined Windows 10 to the domain
+        Confirmed successful Active Directory integration
