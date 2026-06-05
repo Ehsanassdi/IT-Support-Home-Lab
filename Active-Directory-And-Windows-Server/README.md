@@ -47,7 +47,6 @@ Domain created:
 
 <img width="800" height="300" alt="Screenshot 2026-06-03 at 22 49 20" src="https://github.com/user-attachments/assets/40e5f906-6955-4efd-a76a-82360b04a7b4" />
 
-<img width="700" height="400" alt="Screenshot 2026-06-03 at 22 52 27" src="https://github.com/user-attachments/assets/6d1cdab2-be0c-4440-ba0c-e691fcba88fe" />
 
 
 
@@ -60,7 +59,8 @@ Server details:
         Computer Name: DC01
         Domain: ehsan.local
 
-Screenshot 3: DC01 running as Domain Controller
+<img width="700" height="400" alt="Screenshot 2026-06-03 at 22 52 27" src="https://github.com/user-attachments/assets/b3493d6b-a7da-4a85-9358-10b9d9f9b9a2" />
+
 
 
 Step 4 – Configure Static IP on DC01:
