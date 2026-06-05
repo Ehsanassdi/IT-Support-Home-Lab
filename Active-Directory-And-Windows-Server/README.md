@@ -45,9 +45,9 @@ Domain created:
 
         ehsan.local
 
-<img width="700" height="300" alt="Screenshot 2026-06-03 at 22 49 20" src="https://github.com/user-attachments/assets/40e5f906-6955-4efd-a76a-82360b04a7b4" />
+<img width="800" height="300" alt="Screenshot 2026-06-03 at 22 49 20" src="https://github.com/user-attachments/assets/40e5f906-6955-4efd-a76a-82360b04a7b4" />
 
-<img width="700" height="300" alt="Screenshot 2026-06-03 at 22 52 27" src="https://github.com/user-attachments/assets/6d1cdab2-be0c-4440-ba0c-e691fcba88fe" />
+<img width="700" height="400" alt="Screenshot 2026-06-03 at 22 52 27" src="https://github.com/user-attachments/assets/6d1cdab2-be0c-4440-ba0c-e691fcba88fe" />
 
 
 
