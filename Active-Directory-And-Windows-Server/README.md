@@ -78,7 +78,8 @@ Reason:
         Domain Controllers should use static IP addresses.
         Clients must always be able to locate the Domain Controller.
 
-Screenshot 4: Static IP configuration on DC01
+<img width="700" height="400" alt="Screenshot 2026-06-05 at 18 37 01" src="https://github.com/user-attachments/assets/7907b384-6253-4467-b4d0-4715d3cb714f" />
+
 
 
 Step 5 – Configure Static IP on Windows 10 Client:
