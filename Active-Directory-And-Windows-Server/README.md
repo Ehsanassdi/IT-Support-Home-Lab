@@ -30,4 +30,4 @@ Command used:
 
         Install-WindowsFeature AD-Domain-Services -IncludeManagementTools
         
-<img width="300" height="300" alt="Screenshot 2026-06-03 at 22 36 30" src="https://github.com/user-attachments/assets/2f6df296-a37e-4ed4-81d6-0a314a9d6c05" />
+<img width="500" height="300" alt="Screenshot 2026-06-03 at 22 36 30" src="https://github.com/user-attachments/assets/2f6df296-a37e-4ed4-81d6-0a314a9d6c05" />
