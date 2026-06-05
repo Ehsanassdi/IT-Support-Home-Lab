@@ -98,7 +98,8 @@ Reason:
         Enables reliable communication with the Domain Controller.
         Allows DNS resolution for Active Directory services.
 
-Screenshot 5: Windows 10 network configuration
+<img width="700" height="400" alt="Screenshot 2026-06-05 at 18 53 00" src="https://github.com/user-attachments/assets/3f098c61-f3f9-4e93-ab76-b2d84d0db3a1" />
+
 
 
 Step 6 – Test Connectivity:
@@ -113,7 +114,8 @@ Result:
 
         Reply from 192.168.10.10
 
-Screenshot 6: Successful ping test
+<img width="700" height="400" alt="Screenshot 2026-06-05 at 19 00 45" src="https://github.com/user-attachments/assets/40b6c56a-0481-4255-9da1-f8cbf7c2e630" />
+
 
 
 Step 7 – Verify DNS Resolution:
