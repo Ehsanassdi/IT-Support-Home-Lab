@@ -131,7 +131,7 @@ Result:
         Name: ehsan.local
         Address: 192.168.10.10
 
-Screenshot 7: Successful DNS resolution
+
 
 
 Step 8 – Join Windows 10 to the Domain:
@@ -153,7 +153,8 @@ Received confirmation:
 
         Welcome to the ehsan.local domain.
 
-Screenshot 8: Successful domain join
+<img width="700" height="400" alt="Screenshot 2026-06-05 at 19 28 44" src="https://github.com/user-attachments/assets/d34cf1ff-21c9-4d88-97eb-5b097293aa71" />
+
 
 
 Step 9 – Restart and Verify Domain Membership:
@@ -162,7 +163,8 @@ Restarted Windows 10.
 
 The login screen now displays the option to sign in using domain credentials.
 
-Screenshot 9: Domain-joined login screen
+<img width="700" height="400" alt="Screenshot 2026-06-05 at 20 28 07" src="https://github.com/user-attachments/assets/402ac179-0e3a-42ee-98d9-615ae39630aa" />
+
 
 
 Skills Practiced:
