@@ -17,10 +17,20 @@ Objectives:
 
 Environment:
 
-Device	                                Role
+Device  ------------------------------> Role
 
 DC01	------------------------------> Domain Controller
 
 Windows10-Lab2	----------------------> Domain Client
 
 Domain	------------------------------> ehsan.local
+
+
+Step 1 – Create Organizational Unit:
+
+Created an Organizational Unit called IT Support Lab to organize users and groups.
+
+Command used:
+
+        New-ADOrganizationalUnit -Name "IT Support Lab" -Path "DC=ehsan,DC=local"
+<img width="400" height="400" alt="Screenshot 2026-06-06 at 22 19 52" src="https://github.com/user-attachments/assets/fcc18059-84e3-42aa-8e71-2eb199917d46" />
