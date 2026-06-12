@@ -18,6 +18,9 @@ Objectives:
 Environment:
 
 Device	                                Role
+
 DC01	                                  Domain Controller
+
 Windows10-Lab2	                        Domain Client
+
 Domain	                                ehsan.local
