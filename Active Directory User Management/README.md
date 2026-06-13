@@ -51,6 +51,7 @@ Command used:
         
         Get-ADUser john.smith
 <img width="800" height="300" alt="Screenshot 2026-06-07 at 13 23 10" src="https://github.com/user-attachments/assets/5e953d12-4dd2-4c94-a3cb-45b2bde035e9" />
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Step 3 – Create Security Group:
