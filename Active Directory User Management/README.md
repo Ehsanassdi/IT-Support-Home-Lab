@@ -17,13 +17,13 @@ Objectives:
 
 Environment:
 
-Device  ------------------------------> Role
-
-DC01	------------------------------> Domain Controller
-
-Windows10-Lab2	----------------------> Domain Client
-
-Domain	------------------------------> ehsan.local
+        Device                                  Role
+        
+        DC01	------------------------------> Domain Controller
+        
+        Windows10-Lab2	----------------------> Domain Client
+        
+        Domain	------------------------------> ehsan.local
 
 
 Step 1 – Create Organizational Unit:
