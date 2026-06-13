@@ -37,6 +37,8 @@ Command used:
         New-ADOrganizationalUnit -Name "IT Support Lab" -Path "DC=ehsan,DC=local"
         Get-ADOrganizationalUnit -Filter *
 <img width="800" height="300" alt="Screenshot 2026-06-06 at 22 19 52" src="https://github.com/user-attachments/assets/fcc18059-84e3-42aa-8e71-2eb199917d46" />
+
+
 --------------------------------------------------------------------------------
 
 Step 2 – Create User Account:
