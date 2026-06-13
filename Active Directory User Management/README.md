@@ -30,6 +30,8 @@ Step 1 – Create Organizational Unit:
 
 Created an Organizational Unit called IT Support Lab to organize users and groups.
 
+Reason: Organize users and groups in Active Directory.
+
 Command used:
 
         New-ADOrganizationalUnit -Name "IT Support Lab" -Path "DC=ehsan,DC=local"
@@ -40,6 +42,8 @@ Command used:
 Step 2 – Create User Account:
 
 Created a new Active Directory user called john.smith.
+
+Reason: Simulate onboarding a new employee.
 
 Command used:
 
@@ -53,6 +57,8 @@ Step 3 – Create Security Group:
 
 Created the IT Support Users security group.
 
+Reason: Manage permissions through groups instead of individual users.
+
 Command used:
 
         New-ADGroup -Name "IT Support Users" -GroupScope Global -GroupCategory Security -Path "OU=IT Support         Lab,DC=ehsan,DC=local"
@@ -64,6 +70,7 @@ Command used:
 Step 4 – Add User to Group:
 
 Added john.smith to the IT Support Users group.
+Reason: Give the user access to resources through group membership.
 
 Command used:
 
@@ -76,6 +83,8 @@ Command used:
 Step 5 – Password Reset & Account Enable:
 
 Reset the user's password and re-enabled the account using PowerShell.
+
+Reason: Simulate a common Helpdesk password reset request.
 
 Command used:
 
@@ -100,7 +109,9 @@ Verified successful domain login using the reset password.
 
 Step 7 – Configure Lockout Policy:
 
-Configured an account lockout policy to lock accounts after three failed login attempts:
+Configured an account lockout policy to lock accounts after three failed login attempts.
+
+Reason: Protect accounts from repeated failed login attempts.
 
         net accounts /lockoutthreshold:3
         
