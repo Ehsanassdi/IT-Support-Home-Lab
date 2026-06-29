@@ -18,8 +18,9 @@ Environment:
         | Windows11-PC           | Client Workstation |
         | Microsoft Print to PDF | Test Printer       |
         | Windows Services       | Printer Management |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Step 1 – Add Printer:
+Step 1 – Add Printer
 
         Verified that Windows could detect and manage available printers.
 
@@ -27,3 +28,12 @@ Reason:
 
         Ensure printers are installed and available for users.
 <img width="800" height="400" alt="Screenshot 2026-06-29 at 17 18 25" src="https://github.com/user-attachments/assets/dc4fa1cb-ebbd-4731-ac00-ddb8531bdab1" />
+
+
+Step 2 – Remove Printer
+
+        Reviewed how printers can be removed from Windows.
+
+Reason:
+
+        Remove old, faulty, or unused printers.
