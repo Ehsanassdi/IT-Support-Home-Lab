@@ -13,3 +13,4 @@ Screen Lock Policy
 
 This policy will be used to enforce screen lock security settings for users in the IT Department.
 <img width="800" height="400" alt="Screenshot 2026-07-04 at 18 02 03" src="https://github.com/user-attachments/assets/064c922e-7bef-4356-8662-8e358d3ef9c0" />
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
