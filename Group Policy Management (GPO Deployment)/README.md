@@ -42,8 +42,61 @@ I linked the Screen Lock Policy GPO to the:
 
 This tells Active Directory to automatically apply the policy to users and computers located inside that OU.
 
-<img width="536" height="387" alt="Screenshot 2026-07-04 at 18 02 32" src="https://github.com/user-attachments/assets/6ce7078e-04f7-4ad4-ad9f-0a825ad831a4" />
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 4 – Verify the Link
+
+I verified that the Screen Lock Policy was successfully linked to the IT Department OU.
+
+    The Linked Group Policy Objects section showed the policy as enabled.
+
+<img width="800" height="400" alt="Screenshot 2026-07-04 at 18 02 44" src="https://github.com/user-attachments/assets/fdf3b99d-11e7-4612-aba0-42764196904b" />
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 5 – Force Policy Update
+
+On the Windows 11 domain workstation (WIN11-PC), I forced an immediate policy update using:
+
+    gpupdate /force
+
+This command makes the workstation retrieve the latest Group Policy settings from Active Directory immediately rather than waiting for the next automatic refresh.
+
+<img width="800" height="400" alt="Screenshot 2026-07-04 at 18 02 59" src="https://github.com/user-attachments/assets/7ccf4f1d-196c-419d-8377-d85c5bc8963c" />
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 6 – Verify Policy Application
+
+I logged in using the domain user account:
+
+    John Smith
+
+and verified policy deployment using:
+
+    gpresult /r
+
+The output confirmed that:
+
+    Screen Lock Policy
+
+was successfully applied to the user account.
+
+<img width="800" height="400" alt="Screenshot 2026-07-04 at 18 03 12" src="https://github.com/user-attachments/assets/7fbd5e3c-a21b-4eb1-86e8-b65fccbf98b7" />
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Skills Demonstrated:
 
+    Windows Server 2022
+    Active Directory
+    Group Policy Management
+    Organizational Units (OU)
+    Security Policy Deployment
+    Domain Administration
+    Windows 11 Domain Workstation Management
+    Policy Verification and Troubleshooting
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Key Learning
+
+    Group Policy allows administrators to centrally manage and enforce security settings across multiple users and computers.
+
+    By creating a Group Policy Object and linking it to an Organizational Unit, security settings can be automatically distributed without manually configuring every workstation.
