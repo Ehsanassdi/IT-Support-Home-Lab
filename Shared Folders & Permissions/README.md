@@ -32,7 +32,7 @@ Configured CompanyShare as an SMB shared folder using Advanced Sharing.
 Granted appropriate share permissions to allow network access from client computers.
 
 SMB (Server Message Block) is the protocol Windows uses to share files and folders across a network.
-<img width="800" height="400" alt="Create SMB Share " src="https://github.com/user-attachments/assets/bc989182-45d2-4813-a9d6-8bc283339393" />
+<img width="800" height="600" alt="Create SMB Share " src="https://github.com/user-attachments/assets/bc989182-45d2-4813-a9d6-8bc283339393" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. Accessed the Shared Folder from a Client
@@ -60,7 +60,8 @@ Learned the relationship between:
     - Full Control
 
 permissions.
-<img width="800" height="400" alt="4" src="https://github.com/user-attachments/assets/c7777975-dff5-473b-9dd0-431e62353b32" />
+
+<img width="800" height="600" alt="4" src="https://github.com/user-attachments/assets/c7777975-dff5-473b-9dd0-431e62353b32" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 5. Assigned Read Permissions to a Domain User
@@ -76,7 +77,7 @@ Verified that the user could:
     ❌ Create new files
 
 This demonstrated how NTFS permissions enforce different levels of access.
-<img width="800" height="400" alt="5" src="https://github.com/user-attachments/assets/04790bd2-f071-4f81-85ce-698657db7c3a" />
+<img width="800" height="600" alt="5" src="https://github.com/user-attachments/assets/04790bd2-f071-4f81-85ce-698657db7c3a" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 6. Troubleshot an "Access Denied" Issue
