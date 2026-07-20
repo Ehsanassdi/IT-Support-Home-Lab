@@ -22,7 +22,7 @@ Tasks Completed:
 Created a central folder named CompanyShare on the Windows Server.
 
 This folder acts as a shared location where users can store and access company files across the network.
-<img width="400" height="800" alt="Create Shared Folder " src="https://github.com/user-attachments/assets/0fbf0669-1f35-457e-b80c-f1bc3f787af7" />
+<img width="800" height="400" alt="Create Shared Folder " src="https://github.com/user-attachments/assets/0fbf0669-1f35-457e-b80c-f1bc3f787af7" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 2. Configured an SMB Share
@@ -32,7 +32,7 @@ Configured CompanyShare as an SMB shared folder using Advanced Sharing.
 Granted appropriate share permissions to allow network access from client computers.
 
 SMB (Server Message Block) is the protocol Windows uses to share files and folders across a network.
-<img width="400" height="800" alt="Create SMB Share " src="https://github.com/user-attachments/assets/bc989182-45d2-4813-a9d6-8bc283339393" />
+<img width="800" height="400" alt="Create SMB Share " src="https://github.com/user-attachments/assets/bc989182-45d2-4813-a9d6-8bc283339393" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. Accessed the Shared Folder from a Client
@@ -46,7 +46,7 @@ This confirmed that:
     - SMB sharing was configured correctly.
     - Network connectivity was working.
     - The shared folder was reachable from another computer.
-<img width="400" height="800" alt="Access Shared Folder " src="https://github.com/user-attachments/assets/2fd3e6a0-c9ed-4aec-9aaf-3bb36d9696fe" />
+<img width="800" height="400" alt="Access Shared Folder " src="https://github.com/user-attachments/assets/2fd3e6a0-c9ed-4aec-9aaf-3bb36d9696fe" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4. Reviewed NTFS Permissions
@@ -60,7 +60,7 @@ Learned the relationship between:
     - Full Control
 
 permissions.
-<img width="400" height="800" alt="4" src="https://github.com/user-attachments/assets/c7777975-dff5-473b-9dd0-431e62353b32" />
+<img width="800" height="400" alt="4" src="https://github.com/user-attachments/assets/c7777975-dff5-473b-9dd0-431e62353b32" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 5. Assigned Read Permissions to a Domain User
@@ -76,7 +76,7 @@ Verified that the user could:
     ❌ Create new files
 
 This demonstrated how NTFS permissions enforce different levels of access.
-<img width="400" height="800" alt="5" src="https://github.com/user-attachments/assets/04790bd2-f071-4f81-85ce-698657db7c3a" />
+<img width="800" height="400" alt="5" src="https://github.com/user-attachments/assets/04790bd2-f071-4f81-85ce-698657db7c3a" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 6. Troubleshot an "Access Denied" Issue
@@ -91,7 +91,7 @@ Checked:
     - Access after permission changes
 
 This mirrors a common Help Desk task when users cannot access department folders.
-<img width="400" height="800" alt="6" src="https://github.com/user-attachments/assets/5127a9fc-2047-4d35-84b9-987840603c1e" />
+<img width="800" height="400" alt="6" src="https://github.com/user-attachments/assets/5127a9fc-2047-4d35-84b9-987840603c1e" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 7. Mapped the Shared Folder as a Network Drive
@@ -99,7 +99,7 @@ This mirrors a common Help Desk task when users cannot access department folders
 Mapped the shared folder as drive Z: on the Windows 11 client.
 
 This allows users to access the shared company folder directly from File Explorer instead of typing the UNC path every time.
-<img width="400" height="800" alt="7" src="https://github.com/user-attachments/assets/032e01fa-b576-4271-8e41-ad543fe781a2" />
+<img width="800" height="400" alt="7" src="https://github.com/user-attachments/assets/032e01fa-b576-4271-8e41-ad543fe781a2" />
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Key Skills Demonstrated:
