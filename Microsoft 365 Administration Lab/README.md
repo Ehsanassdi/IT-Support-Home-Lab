@@ -34,7 +34,7 @@ Tasks Completed:
 
 - Created User
 
-<img width="400" height="800" alt="create user" src="https://github.com/user-attachments/assets/5d073004-d9e0-4eda-980d-3e6a7c232166" />
+<img width="800" height="400" alt="create user" src="https://github.com/user-attachments/assets/5d073004-d9e0-4eda-980d-3e6a7c232166" />
 
 
 What I did:
