@@ -26,6 +26,7 @@ Skills Covered:
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ User Administration
+
 Scenario
 
     A new employee joins the company and requires Microsoft 365 access.
@@ -97,3 +98,61 @@ Why:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✅ Exchange Online
+
+Scenario
+
+    Marketing department requires a shared mailbox.
+
+- Shared Mailbox
+
+<img width="800" height="400" alt="sheared mailbox" src="https://github.com/user-attachments/assets/4b246ab1-57c7-47a9-a820-da2a425e5ffc" />
+
+
+
+Created a shared mailbox named:
+
+    Marketing
+
+- Add Member
+
+<img width="800" height="400" alt="added sarah to shared mailbox" src="https://github.com/user-attachments/assets/775db328-8ba0-4d34-9c8c-4305c60f5386" />
+
+
+    Added Sarah Jones with Full Access.
+
+- Mailbox Permissions
+  
+Full Access
+
+<img width="800" height="400" alt="full access" src="https://github.com/user-attachments/assets/fd6ba355-0083-4649-b34b-d912909ce3f5" />
+
+
+    Allows a user to open and manage the mailbox.
+
+- Send As
+
+<img width="800" height="400" alt="send as" src="https://github.com/user-attachments/assets/3db63f23-45f0-4405-8c1d-0f92dfadb000" />
+
+
+    Allows sending emails as the mailbox.
+
+- Send on Behalf
+
+<img width="800" height="400" alt="on behalf" src="https://github.com/user-attachments/assets/f1bd5958-ced0-4d49-8bf5-edf2fb09ba1a" />
+
+
+    Shows that Sarah sent the email on behalf of Marketing.
+
+- Distribution Group
+
+<img width="800" height="400" alt="create Distribution Group " src="https://github.com/user-attachments/assets/e10af93a-509e-48b6-ae24-53cbec66c1e3" />
+
+
+    Created Marketing Distribution Group.
+    
+    Purpose:
+    
+    One email → multiple users.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✅ Microsoft Entra ID
