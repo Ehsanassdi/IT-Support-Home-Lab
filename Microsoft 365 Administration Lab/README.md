@@ -24,7 +24,30 @@ Skills Covered:
     Access Review
     Cloud Administration
 
-— User Administration
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✅ User Administration
 Scenario
 
     A new employee joins the company and requires Microsoft 365 access.
+
+Tasks Completed:
+
+- Created User
+
+<img width="400" height="800" alt="create user" src="https://github.com/user-attachments/assets/5d073004-d9e0-4eda-980d-3e6a7c232166" />
+
+
+What I did:
+
+    Created Sarah Jones
+    Assigned Microsoft 365 Business Basic
+    Forced password change at first sign in
+
+Why:
+
+Every employee requires a Microsoft 365 account before they can use:
+
+    Outlook
+    Teams
+    OneDrive
+    Microsoft 365 Apps
