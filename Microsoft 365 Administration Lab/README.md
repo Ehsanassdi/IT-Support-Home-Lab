@@ -204,4 +204,36 @@ Assign Group Owner
   
 <img width="800" height="400" alt="View Sign-in Logs" src="https://github.com/user-attachments/assets/3fa7025c-629c-4b2d-951d-7735fa91102f" />
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+What I Learned:
+
+During this phase I gained practical experience with:
+
+    - Microsoft 365 Administration
+    - Exchange Online
+    - Microsoft Entra ID
+    - Identity and Access Management (IAM)
+    - User Provisioning
+    - User Lifecycle Management
+    - Shared Mailboxes
+    - Distribution Groups
+    - Security Groups
+    - Help Desk Troubleshooting
+    - Cloud Administration
+
+
+Real Help Desk Scenarios Practised
+
+During this lab, I completed hands-on Microsoft 365 administration tasks based on common IT Support requests, including:
+
+    - New employee onboarding
+    - Password reset requests
+    - Blocking user sign-ins
+    - Microsoft 365 licence assignment
+    - Shared mailbox administration
+    - Distribution group management
+    - User account updates and recovery
+    - Security group administration
+    - Identity and access reviews
+    - Sign-in log troubleshooting
