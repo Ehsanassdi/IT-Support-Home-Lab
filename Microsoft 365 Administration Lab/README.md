@@ -156,3 +156,20 @@ Full Access
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ Microsoft Entra ID
+
+Identity Management
+
+Scenario
+
+    Daniel Brown was promoted, then accidentally deleted.
+
+- Update User
+- Delete User
+- Restore User
+
+<img width="800" height="400" alt="updated user account" src="https://github.com/user-attachments/assets/59060629-0eb2-43a3-ab75-b01ec3a125fd" />
+
+<img width="800" height="400" alt="user account deleted" src="https://github.com/user-attachments/assets/86dab630-429f-4f78-a115-7f9ae82bafd3" />
+
+
+<img width="800" height="400" alt="user account restored" src="https://github.com/user-attachments/assets/4f948aab-7c0f-4778-9bf7-f97d1093283b" />
