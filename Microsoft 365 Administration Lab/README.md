@@ -157,19 +157,39 @@ Full Access
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✅ Microsoft Entra ID
 
-Identity Management
+- Identity Management
 
 Scenario
 
     Daniel Brown was promoted, then accidentally deleted.
 
-- Update User
-- Delete User
-- Restore User
+Update User
+Delete User
+Restore User
 
 <img width="800" height="400" alt="updated user account" src="https://github.com/user-attachments/assets/59060629-0eb2-43a3-ab75-b01ec3a125fd" />
 
 <img width="800" height="400" alt="user account deleted" src="https://github.com/user-attachments/assets/86dab630-429f-4f78-a115-7f9ae82bafd3" />
 
-
 <img width="800" height="400" alt="user account restored" src="https://github.com/user-attachments/assets/4f948aab-7c0f-4778-9bf7-f97d1093283b" />
+
+- Security Groups
+
+Scenario
+
+    Sarah joins the IT Support department.
+
+Create Security Group
+Add Member
+Remove Member
+Assign Group Owner
+
+<img width="800" height="400" alt="create security group" src="https://github.com/user-attachments/assets/18bbb935-ee07-424a-9d59-cc943c321eb5" />
+
+<img width="800" height="400" alt="add member" src="https://github.com/user-attachments/assets/aca860c6-95f8-43f6-8e7f-a1705c736a5b" />
+
+<img width="800" height="400" alt="remove member" src="https://github.com/user-attachments/assets/9eee0122-5891-4813-ba51-8ac12c062b10" />
+
+<img width="800" height="400" alt="assign group owner" src="https://github.com/user-attachments/assets/43b2fa01-535f-47f2-a366-c5535f77fb1a" />
+
+
