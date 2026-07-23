@@ -53,6 +53,7 @@ Every employee requires a Microsoft 365 account before they can use:
     Microsoft 365 Apps
 
 - Reset Password
+  
   <img width="800" height="400" alt="Reset Password " src="https://github.com/user-attachments/assets/8acd003b-d0e6-4cfa-b5ca-8cc4e67daf7e" />
 
 
