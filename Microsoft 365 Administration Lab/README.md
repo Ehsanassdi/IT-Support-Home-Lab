@@ -51,3 +51,17 @@ Every employee requires a Microsoft 365 account before they can use:
     Teams
     OneDrive
     Microsoft 365 Apps
+
+- Reset Password
+  <img width="800" height="400" alt="Reset Password " src="https://github.com/user-attachments/assets/8acd003b-d0e6-4cfa-b5ca-8cc4e67daf7e" />
+
+
+  What I did:
+
+        Reset the user's password
+        Generated a temporary password
+        Forced password change
+
+Why:
+
+    Allows users to regain access securely.
