@@ -105,7 +105,7 @@ Scenario
 
 - Shared Mailbox
 
-<img width="800" height="400" alt="sheared mailbox" src="https://github.com/user-attachments/assets/4b246ab1-57c7-47a9-a820-da2a425e5ffc" />
+<img width="800" height="600" alt="sheared mailbox" src="https://github.com/user-attachments/assets/4b246ab1-57c7-47a9-a820-da2a425e5ffc" />
 
 
 
@@ -145,7 +145,7 @@ Full Access
 
 - Distribution Group
 
-<img width="800" height="400" alt="create Distribution Group " src="https://github.com/user-attachments/assets/e10af93a-509e-48b6-ae24-53cbec66c1e3" />
+<img width="800" height="600" alt="create Distribution Group " src="https://github.com/user-attachments/assets/e10af93a-509e-48b6-ae24-53cbec66c1e3" />
 
 
     Created Marketing Distribution Group.
