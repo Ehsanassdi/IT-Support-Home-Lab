@@ -70,7 +70,7 @@ Why:
 
 - Block Sign-in
 
-<img width="400" height="800" alt="Disable User " src="https://github.com/user-attachments/assets/f874eb0e-014e-43dc-83f5-612f180ccddc" />
+<img width="800" height="400" alt="Disable User " src="https://github.com/user-attachments/assets/f874eb0e-014e-43dc-83f5-612f180ccddc" />
 
 
 What I did:
@@ -83,7 +83,7 @@ Why:
 
 - Assign License
 
-<img width="400" height="800" alt="Assign License " src="https://github.com/user-attachments/assets/74ac6e1d-d3d9-4d6b-9e0a-ce20c80cfefc" />
+<img width="800" height="400" alt="Assign License " src="https://github.com/user-attachments/assets/74ac6e1d-d3d9-4d6b-9e0a-ce20c80cfefc" />
 
 
 What I did:
